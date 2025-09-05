@@ -1,0 +1,6 @@
+alias ls='ls --color=auto'
+alias ll='ls -l --color=auto'
+alias la='ls -a --color=auto'
+alias lla='ls -la --color=auto'
+alias grep='grep --color=auto'
+alias rm='rm -I'
